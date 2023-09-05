@@ -7,7 +7,7 @@ This project showcases a basic Ebook application created using HTML and Bootstra
 * Input field for users to get in touch with the site.
 
 # How to Use File
-* Clone this repository to your local machine using git clone https://github.com/kiddmetro/Ebbok-Web-Page.git
+* Clone this repository to your local machine using git clone https://github.com/kiddmetro/Ebook-Web-Page.git
 * Navigate to the project directory.
 * Install Bootstrap in project directory with npm install bootstrap
 * Make sure you have node.js installed
